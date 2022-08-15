@@ -5,7 +5,7 @@
 <h1>Óticas</h1>
 <!-- ----- FIRST CLIENT ----- -->
 <h2>ótica central</h2>
-<img src="/src/lib/img-nav/o-central.webp" alt="imagem do estabelecimento">
+<img src="/img-nav/o-central.webp" alt="imagem do estabelecimento">
 <div class="info">
     <p class="card-line">segmento: óculos de sol, óculos de grau, lentes, relógios</p>
     <h3>horário de funcionamento</h3>
